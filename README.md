@@ -9,4 +9,4 @@ Enable bookmarks bar (Control + Shift + B) -> Add Page -> In the URL section pas
 Console:
 Paste the code from console.js into the developer console (open with Control + Shift + I)
 #
-Note there will probably be bugs. Do not expect fixes as this project is not being maintained. 
+### Note there will probably be bugs. Do not expect fixes as this project is not being maintained. 
